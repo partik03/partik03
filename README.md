@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag0006&label=Profile%20views&color=0e75b6&style=flat" alt="anurag0006" /> </p>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust, Pipecat and Livekit**
 - 💼 I have experience in **building tech products**
 - 📫 How to reach me: **partikbumrah13508@gmail.com**
 - ⚡ Fun fact: **I once coded a project entirely using only coffee as my fuel! ☕**
